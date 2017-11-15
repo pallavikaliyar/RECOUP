@@ -1,0 +1,26 @@
+[18:26:59 - AWT-EventQueue-0] [Cooja.java:2861] [INFO] - External tools default settings: /external_tools_linux.config
+[18:26:59 - AWT-EventQueue-0] [Cooja.java:2891] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[18:27:56 - Thread-0] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:27:57 - Thread-0] [Cooja.java:4264] [WARN] - Replaced [CONTIKI_DIR]/examples/ipv6/multicast/bmrf/root.c with /home/user/contiki/examples/ipv6/multicast/bmrf/root.c (default: ../../..), but could not find it. This does not have to be an error, as the file might be created later.
+[18:27:57 - Thread-0] [Cooja.java:4264] [WARN] - Replaced [CONTIKI_DIR]/examples/ipv6/multicast/bmrf/root.sky with /home/user/contiki/examples/ipv6/multicast/bmrf/root.sky (default: ../../..), but could not find it. This does not have to be an error, as the file might be created later.
+[18:27:57 - Thread-0] [CompileContiki.java:140] [INFO] - > make root.sky TARGET=sky 
+[18:27:57 - Thread-0] [SkyMoteType.java:171] [FATAL] - >> 
+[18:27:57 - Thread-0] [SkyMoteType.java:171] [FATAL] - >> > make root.sky TARGET=sky 
+[18:27:57 - Thread-0] [SkyMoteType.java:174] [FATAL] - Compilation error: Compilation error: Cannot run program "make" (in directory "/home/user/contiki/examples/ipv6/multicast/bmrf"): error=2, No such file or directory
+[18:28:08 - AWT-EventQueue-0] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:28:09 - AWT-EventQueue-0] [Visualizer.java:250] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[18:28:17 - AWT-EventQueue-0] [Cooja.java:4264] [WARN] - Replaced [CONTIKI_DIR]/examples/ipv6/multicast/bmrf/sink.c with /home/user/contiki/examples/ipv6/multicast/bmrf/sink.c (default: ../../..), but could not find it. This does not have to be an error, as the file might be created later.
+[18:28:47 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:28:47 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:28:48 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make intermediate.sky TARGET=sky 
+[18:29:05 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:29:05 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:29:09 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:29:10 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:29:10 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make root.sky TARGET=sky 
+[18:29:34 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:29:34 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:29:40 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:29:41 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make sink.sky TARGET=sky 
+[18:30:12 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[18:30:12 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
